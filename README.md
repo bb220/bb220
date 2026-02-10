@@ -1,6 +1,6 @@
 philosophy
 - keep it simple
-- good = effective + efficient
+- good = effective × efficient
 - find the 10x+ leverage
 
 tools
