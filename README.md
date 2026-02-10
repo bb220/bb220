@@ -1,5 +1,3 @@
-I build software systems and products. Currently, working on AI applications.
-
 philosophy
 - keep it simple
 - good = effective + efficient
