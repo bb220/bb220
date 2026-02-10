@@ -1,5 +1,3 @@
-### 🏄 brandonbellero
-
 I build software systems and products. Currently, working on AI applications.
 
 philosophy
