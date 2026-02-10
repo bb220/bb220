@@ -1,16 +1,18 @@
-## Hi there 👋
+### 🏄 brandonbellero
 
-<!--
-**bb220/bb220** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build software systems and products. Currently, working on AI applications.
 
-Here are some ideas to get you started:
+philosophy
+- keep it simple
+- good = effective + efficient
+- find the 10x+ leverage
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+tools
+- mostly python and typescript
+- cloud services for compute, storage, inference, and observability
+- agent-native engineering (engineer-led for complex tasks, background agents for basic tasks)
+
+interests
+- ai models and training, agents and multi-agent systems 
+- embedded systems and low-level languages (Rust, C++)
+- novel human-computer interfaces (tactile, e-ink, voice)
