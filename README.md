@@ -10,5 +10,5 @@ tools
 
 interests
 - ai applications, agents and multi-agent systems, models and training 
-- embedded systems and low-level languages (Rust, C++)
+- embedded systems and lower-level languages (Rust, C++)
 - novel human-computer interfaces (tactile, AR, voice)
