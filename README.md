@@ -1,7 +1,7 @@
 philosophy
-- keep it simple
-- good = effective × efficient
 - find the 10x+ leverage
+- keep it simple
+- good = f(effective, efficient)
 
 tools
 - mostly python and typescript
