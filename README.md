@@ -1,5 +1,5 @@
 philosophy
-- find the 10x leverage
+- find 10x leverage
 - keep it simple
 - good = f(effective, efficient)
 
